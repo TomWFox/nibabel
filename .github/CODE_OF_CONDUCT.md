@@ -94,7 +94,7 @@ We put great value on respectful, friendly and helpful communication.
 If you feel that any of our Nibabel communications lack respect, or are unfriendly or unhelpful,
 please try the following steps:
 
-* If you feel able, please let the person who has sent the email or comment that you found it
+* If you feel able, please let the person who has sent the email or comment know that you found it
   disrespectful / unhelpful / unfriendly, and why;
 
 * If you don't feel able to do that, or that didn't work, please contact Chris Markiewicz directly
